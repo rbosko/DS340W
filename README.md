@@ -1,4 +1,5 @@
 # Empathy in Text-based Mental Health Support
+### DISCLAIMER: This is for a class course project and we are trying to replicate results
 This repository contains codes and dataset access instructions for the [EMNLP 2020 publication](https://arxiv.org/pdf/2009.08441) on understanding empathy expressed in text-based mental health support.
 
 If this code or dataset helps you in your research, please cite the following publication:
